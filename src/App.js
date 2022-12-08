@@ -1,21 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://www.hoyoverse.com/_nuxt/img/m-layer-0.1467ae6.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Step Into a Vast Magical World of Adventure
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://genshin.hoyoverse.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Click here
         </a>
       </header>
     </div>
